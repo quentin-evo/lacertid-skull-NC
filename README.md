@@ -1,5 +1,4 @@
-# lacertid-skull-NC
-Script for the paper "Neural crest cell biology shapes lizard skull evolution across evolutionary time scales"
+# Script for the paper "Neural crest cell biology shapes lizard skull evolution across evolutionary time scales"
 
 # Scripts (to be the run in order):
 
